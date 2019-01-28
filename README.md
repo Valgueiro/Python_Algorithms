@@ -4,4 +4,4 @@ This repository will be used for my lessons notes and code keeper from MIT Algor
 It has an pyenv virtualenviromment called ```py-algorithms```
 
 ## Lessons:
- 1. [Algorithmic Thinking, Peak Finding](..blob/master/Peak\ Finding)
+ 1. [Algorithmic Thinking, Peak Finding](../master/Peak%20Finding)
