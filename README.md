@@ -6,3 +6,4 @@ It has an pyenv virtualenviromment called ```py-algorithms```
 ## Lessons:
  1. [Algorithmic Thinking, Peak Finding](../master/Peak%20Finding)
  2. [Models of computation, document distance](../master/Document%20Distance)
+ 3. [Insertion Sort, Merge Sort](../master/Insertion%20and%20Merge%20Sort)
