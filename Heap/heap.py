@@ -93,3 +93,23 @@ class Heap:
             output.append(self.extract_max())
 
         return output
+
+    """
+    Insert
+    Uses bottom-up approach with increase_key()
+    @complexity O(log n)
+    """
+    def insert(self, val):
+        self.heap.append(val)
+        self.__increase_key(len(self.heap) - 1)
+
+    """
+    Increase key (swift up)
+    Checks (and swaps if necessary) if my parent is smaller than me
+    @complexity O(log n)
+    """
+    def __increase_key(self, i):
+        if i > 1 and i < len(self.heap):
+            if self.heap[parent(i)] < self.heap[i]:
+                self.heap[parent(i)], self.heap[i] = self.heap[i], self.heap[parent(i)]
+                self.__increase_key(parent(i))
