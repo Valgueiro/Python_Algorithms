@@ -11,3 +11,4 @@ It has an pyenv virtualenviromment called ```py-algorithms```
 4. [Heaps and Heap Sort](../master/Heap)
 5. [Binary Searche Trees, BST sort](../master/Binary%20Search%20Tree)
 6. [AVL Trees, AVL Sort](../master/AVL)
+7. [Counting Sort, Radix Sort, Lower Bounds for Sorting](../master/Counting%20and%20Radix%20Sort)
