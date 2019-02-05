@@ -10,3 +10,4 @@ It has an pyenv virtualenviromment called ```py-algorithms```
 3. [Insertion Sort, Merge Sort](../master/Insertion%20and%20Merge%20Sort)
 4. [Heaps and Heap Sort](../master/Heap)
 5. [Binary Searche Trees, BST sort](../master/Binary%20Search%20Tree)
+6. [AVL Trees, AVL Sort](../master/AVL)
